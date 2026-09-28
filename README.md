@@ -43,7 +43,7 @@ wallet_backend/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/luvya08/wallet_backend.git
 cd wallet_backend
 ```
 
