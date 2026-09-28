@@ -1,0 +1,13 @@
+# Environment variables (contains real passwords/secrets - never commit this)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment folder
+.venv/
+venv/
+
+# IDE settings
+.idea/
